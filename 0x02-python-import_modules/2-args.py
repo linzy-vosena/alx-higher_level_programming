@@ -5,7 +5,7 @@ if __name__ == "__main__":
     if x < 1:
         print("{} arguements.".format(x))
     elif x == 1:
-        print("{} arguements:".format(x))
+        print("{} arguement:".format(x))
     else:
         print("{} arguements:".format(x))
 
